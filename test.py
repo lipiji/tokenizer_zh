@@ -17,4 +17,4 @@ print("decoding from tks")
 print(tknizer.decode(tks))
 
 print("decoding from ids")
-print(tknizer.decode(ids),)
+print(tknizer.decode(ids))
