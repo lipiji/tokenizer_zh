@@ -1,4 +1,6 @@
 # tokenizer_zh
+- Jieba + BPE
+
 - Trained based on 10G Chinese corpus (news, wiki, poetry).
 
 - Example
