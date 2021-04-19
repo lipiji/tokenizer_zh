@@ -1,5 +1,7 @@
 # tokenizer_zh
+- Trained based on 10G Chinese corpus (news, wiki, poetry).
 
+- Example
 ```
 tknizer = GPTXTokenizer(model_file="gptx.model")
 
