@@ -1,5 +1,4 @@
 # coding=utf-8
-# Copyright 2018 The Open AI Team Authors and The HuggingFace Inc. team.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""Tokenization classes for OpenAI GPT."""
+"""Tokenization classes for GPTX."""
 
 import sys
 import os
