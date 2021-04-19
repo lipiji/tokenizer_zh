@@ -1,5 +1,5 @@
 # tokenizer_zh
-- Jieba + BPE
+- Jieba + BPE, vocab_size=25k
 
 - Trained based on 10G Chinese corpus (news, wiki, poetry).
 
